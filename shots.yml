@@ -1,5 +1,3 @@
 - url: https://fund-dm.ru/
+  wait: 5000
   output: shot.png
-  wait: 3000
-
-
