@@ -1,4 +1,6 @@
 - url: https://fund-dm.ru/
   output: shot.png
-  height: 2800
-  wait: 3000
+  quality: 80
+  wait: 2000
+
+
